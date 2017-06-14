@@ -1,0 +1,3 @@
+The Monty Hall Problem is one I've recently come to enjoy. The answer is to always choose to change your door. 
+The probability of winning when you choose a door at the begining of the game is 1/3 but the probability of winning when you switch in the middle of the game is 2/3 because at the middle mark of the game, the question changes from 'which door' to 'do you want to stay'. Another way of saying that is 'did you choose a losing door'. The probability of having chosen a losing door instead of the winning door is 2/3 and therefor you should always choose to switch doors. 
+
